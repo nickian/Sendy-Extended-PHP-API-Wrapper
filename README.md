@@ -86,7 +86,7 @@ These methods are currently compatible with and tested on version 2.0.4.
     
 ###Get Brands
 
-    $sendy->getBrands($id, $user_id)
+    $sendy->getBrands($id, $user_id);
 
 ###Get Users
 
